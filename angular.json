@@ -30,7 +30,25 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+
+               "src/assets/scripts/jquery.min.js",
+               "src/assets/scripts/script.js",
+               "src/assets/scripts/bootstrap/js/bootstrap.min.js",
+               "src/assets/scripts/imagesloaded.min.js",
+               "src/assets/scripts/parallax.min.js",
+               "src/assets/scripts/flexslider/jquery.flexslider-min.js",
+               "src/assets/scripts/isotope.min.js",
+               "src/assets/scripts/php/contact-form.js",
+               "src/assets/scripts/jquery.progress-counter.js",
+               "src/assets/scripts/jquery.tab-accordion.js",
+               "src/assets/scripts/bootstrap/js/bootstrap.popover.min.js",
+               "src/assets/scripts/jquery.magnific-popup.min.js",
+               "src/assets/scripts/social.stream.min.js",
+               "src/assets/scripts/jquery.slimscroll.min.js",
+               "src/assets/scripts/smooth.scroll.min.js"
+
+            ]
           },
           "configurations": {
             "production": {
